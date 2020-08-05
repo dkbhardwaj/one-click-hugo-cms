@@ -1,5 +1,5 @@
 ---
-title: Test 2 Best  coffee with a conscience
+title: Dev Best  coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
